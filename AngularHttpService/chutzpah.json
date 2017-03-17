@@ -9,7 +9,10 @@
       "Path": "scripts/angular-mocks.js",
       "IsTestFrameworkFile": true
     },
+    { "Path": "cat-factory.js" },
+    { "Path": "main-controller.js" },
     { "Path": "app.js" }
+
   ],
   "Tests": [
     {

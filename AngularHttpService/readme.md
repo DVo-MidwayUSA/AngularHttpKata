@@ -5,6 +5,11 @@
 - Learn together
 - Have fun
 
+## Focus on...
+- Code quality
+- naming
+- all the things
+
 ### Possible APIs
 - https://api.github.com/users/shahnhogan, angular, google, aspnet
  

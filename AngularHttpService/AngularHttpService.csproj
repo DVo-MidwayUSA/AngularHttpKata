@@ -66,8 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="cat-factory.js" />
     <Content Include="Content\jasmine\jasmine.css" />
     <Content Include="Content\jasmine\jasmine_favicon.png" />
+    <Content Include="main-controller.js" />
     <Content Include="packages.config" />
     <Content Include="package.json" />
     <Content Include="chutzpah.json" />
