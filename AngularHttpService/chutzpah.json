@@ -1,0 +1,9 @@
+{
+  "Framework": "jasmine",
+  "References": [
+    { "Path": "index.js" }
+  ],
+  "Tests": [
+    { "Include": "tests/**" }
+  ]
+}
