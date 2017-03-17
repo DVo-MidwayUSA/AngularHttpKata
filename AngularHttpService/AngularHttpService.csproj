@@ -90,10 +90,11 @@
     <Content Include="Scripts\jasmine\console.js" />
     <Content Include="Scripts\jasmine\jasmine-html.js" />
     <Content Include="Scripts\jasmine\jasmine.js" />
+    <None Include="_\_references.js" />
     <Content Include="_\sample.js" />
     <Content Include="index.html" />
-    <Content Include="index.js" />
-    <Content Include="tests\tests.js" />
+    <Content Include="app.js" />
+    <Content Include="app.spec.js" />
     <Content Include="Web.config" />
     <Content Include="_\tests.js" />
   </ItemGroup>

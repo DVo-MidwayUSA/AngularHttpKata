@@ -1,9 +1,20 @@
 {
   "Framework": "jasmine",
   "References": [
-    { "Path": "index.js" }
+    {
+      "Path": "scripts/angular.min.js",
+      "IsTestFrameworkFile": true
+    },
+    {
+      "Path": "scripts/angular-mocks.js",
+      "IsTestFrameworkFile": true
+    },
+    { "Path": "app.js" }
   ],
   "Tests": [
-    { "Include": "tests/**" }
+    {
+      "Path": "app.spec.js",
+      "ExpandReferenceComments": true
+    }
   ]
 }
