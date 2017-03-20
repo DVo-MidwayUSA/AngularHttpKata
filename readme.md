@@ -11,6 +11,6 @@
 - all the things
 
 ### Possible APIs
-- https://api.github.com/users/shahnhogan, angular, google, aspnet
- 
+- https://api.github.com/users/shahnhogan, angular, google, aspnet 
  - properties: `name`, `avatar_url`, `url`
+- http://thecatapi.com/docs.html
